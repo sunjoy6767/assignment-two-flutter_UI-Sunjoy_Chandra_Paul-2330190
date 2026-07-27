@@ -1,4 +1,4 @@
-# flutter_application_1
+# UI assignment
 
 A new Flutter project.
 
